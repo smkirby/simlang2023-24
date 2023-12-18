@@ -11,15 +11,15 @@ All the coding for this course will be done using interactive Python notebooks, 
 To do that:
 
 1. Go to the Simulating Language page on [Learn](http://www.learn.ed.ac.uk/)
-2. Click on the 'Course Materials' tab on the left
-3. Click on the **Noteable** link at the bottom (you may find you need to temporarily allow pop-ups in your browser. I realise this is super annoying, sorry!)
+2. Click on the 'Content' tab on the top
+3. Click on the **Noteable** link at the bottom
 4. Once you've logged on to the noteable service you may have to either "reconnect" or "start" your server (if there is a list of options available, stay with "Standard Notebook (Python 3)").
     ![noteable screenshot](images/lab1_noteable_screenshot.png)
 5. Once you've started and connected/reconnected to the server you'll be given an interface that will let you upload notebooks and navigate the files you'll be creating.
 6. There is a button labelled `+GitRepo`. Click on that and enter this web address for the Git Repository URL: `https://github.com/smkirby/simlang2023-24`. You can leave all the other fields at their defaults or blank.
-7. Click on `Clone`. This will download all the latest versions of the notebook files onto your noteable account in a folder called `simlang2022-23`
+7. Click on `Clone`. This will download all the latest versions of the notebook files onto your noteable account in a folder called `simlang2023-24`
 
-You should only need to do this downloading of the notebook files once, unless I update any of the files during the semester, in which case I'll tell you. However, if you mess up any local copy of a notebook and want to return it back to the original, just delete or rename your notebook and then go through steps 6 and 7 again to restore the original versions.
+You should only need to do this downloading of the notebook files once, unless I update any of the files during the semester, in which case I'll tell you. (Note that if you're reading this in advance of the first lab then probably a lot of the files won't be there yet!) However, if you mess up any local copy of a notebook and want to return it back to the original, just delete or rename your notebook and then go through steps 6 and 7 again to restore the original versions.
 
 # Programming tasks for today's lab
 
