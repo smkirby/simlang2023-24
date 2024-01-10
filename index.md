@@ -66,7 +66,7 @@ For UG students, each assessment is weighted equally for the final marks. For PG
 
 ## Course Materials
 
-Dates for lectures and labs shown in brackets. Please note that we will only post the answers for each lab the week following the lab. So please do have a go yourself, and come along to the lab sessions if you get stuck! 
+Dates for lectures and labs shown in brackets. **Please note that we will only post the answers for each lab the week following the lab.** So please do have a go yourself, and come along to the lab sessions if you get stuck! 
 
 N.B. The numbers below indicate the order of the sections of the course, but it's possible that lectures may move. Note that there are 11 weeks in the teaching semester to fit 10 lectures into, which allows a bit of flexibility.
 
