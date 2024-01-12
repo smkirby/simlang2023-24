@@ -16,7 +16,7 @@ This is a practical course: you'll be running and tinkering with code for comput
 
 ## The teaching team
 
-[Simon Kirby](https://simonkirby.net/) is the lecturer for this course. The best way to get in touch with me is after a lecture, or by messaging on Teams. Please don't email.
+[Simon Kirby](https://simonkirby.net/) is the lecturer for this course. The best way to get in touch with me is after a lecture, or by messaging on Teams. Please don't email. In addition, Claire Graf, Aislinn Keogh, and Ponrawee Prasertsom are the lab tutors on the course.
 
 ## Structure of the course
 
