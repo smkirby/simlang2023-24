@@ -33,11 +33,11 @@ For an introduction that covers a lot more ground and in a lot more detail, you 
 
 # After the reading, take the quizzes!
 
-Do the three short quizzes on the course Teams page, which will set you some simple puzzles to do with probability, likelihood, priors and eventually doing Bayesian inference. Most of the course will be no more conceptually complex than these examples, so if you can work through these then you’ll be in good shape – and if you can’t it’ll help you figure out whether you need to watch some of the tutorial content and/or ask for help or clarification in lectures and/or in labs.
+Do the three short quizzes below, which will set you some simple puzzles to do with probability, likelihood, priors and eventually doing Bayesian inference. Most of the course will be no more conceptually complex than these examples, so if you can work through these then you’ll be in good shape – and if you can’t it’ll help you figure out whether you need to watch some of the tutorial content and/or ask for help or clarification in lectures and/or in labs.
 
-- Part 1: [answers](miscellaneous/BayesPart1Answers.pdf)
-- Part 2: [answers](miscellaneous/BayesPart2Answers.pdf)
-- Part 3: [answers](miscellaneous/BayesPart3Answers.pdf)
+- Part 1: [quiz](miscellaneous/BayesPart1.pdf) [answers](miscellaneous/BayesPart1Answers.pdf)
+- Part 2: [quiz](miscellaneous/BayesPart2.pdf) [answers](miscellaneous/BayesPart2Answers.pdf)
+- Part 3: [quiz](miscellaneous/BayesPart3.pdf) [answers](miscellaneous/BayesPart3Answers.pdf)
 
 
 
