@@ -80,15 +80,15 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 - Pre-lecture reading: [More on Bayes' Rule](simlang_reading_2.md)
 - [Lecture slides](lecture_slides/lecture2.pdf) (Feb 2)
-- Programming practical: [Word learning](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab2.ipynb) (Feb 5, 7, 8)
-- Answers to Practical: [Word learning answers](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab2_answered.ipynb)
+- Programming practical: [Word learning](https://github.com/smkirby/simlang2023-24/blob/main/lab2.ipynb) (Feb 5, 7, 8)
+- Answers to Practical: [Word learning answers](https://github.com/smkirby/simlang2023-24/blob/main/lab2_answered.ipynb)
 
 ### 3. Frequency learning and regularisation
 
 - No new reading - catch up on the readings on Bayes, or read [Xu & Tenenbaum (2007)](https://psycnet-apa-org.ezproxy.is.ed.ac.uk/fulltext/2007-05396-002.html), covered in the previous lecture, for yourself.
 - [Lecture slides](lecture_slides/lecture3.pdf) (Feb 9)
-- Programming practical: [Frequency learning and regularisation](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab3.ipynb) (Feb 12, 14, 15)
-- Answers to Practical: [Frequency learning and regularisation answers](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab3_answered.ipynb)
+- Programming practical: [Frequency learning and regularisation](https://github.com/smkirby/simlang2023-24/blob/main/lab3.ipynb) (Feb 12, 14, 15)
+- Answers to Practical: [Frequency learning and regularisation answers](https://github.com/smkirby/simlang2023-24/blob/main/lab3_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_3_walkthrough/1_1pyq2qg1)
 
 
@@ -97,13 +97,13 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - [Lecture slides](lecture_slides/lecture4.pdf) (Feb 16)
   - [Video of uniform prior](lecture_slides/lecture4_videos/posterior_uniform.mp4)
   - [Video of regularity prior](lecture_slides/lecture4_videos/posterior_regularity.mp4)
-  - [Code for generating these videos](http://nbviewer.com/github/smkirby/simlang2023-24/blob/gh-pages/lecture_slides/lecture4_videos/lecture4_figures.ipynb)
+  - [Code for generating these videos](https://github.com/smkirby/simlang2023-24/blob/gh-pages/lecture_slides/lecture4_videos/lecture4_figures.ipynb)
 - Post-lecture reading (read this directly after the lecture, not before): [Bayesian iterated learning](simlang_reading_4.md)
-- Programming practical: [Bayesian iterated learning](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab4.ipynb) (Feb 26, 28, 29)
+- Programming practical: [Bayesian iterated learning](https://github.com/smkirby/simlang2023-24/blob/main/lab4.ipynb) (Feb 26, 28, 29)
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts (by Matt Spike)
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
-  - [notebook](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/LogExplainer.ipynb)
-- Answers to practical [Bayesian iterated learning](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab4_answered.ipynb)
+  - [notebook](https://github.com/smkirby/simlang2023-24/blob/main/LogExplainer.ipynb)
+- Answers to practical [Bayesian iterated learning](https://github.com/smkirby/simlang2023-24/blob/main/lab4_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)
 
 
@@ -111,16 +111,16 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 - Reading: [The Rational Speech Act model](simlang_reading_5.md)
 - [Lecture slides](lecture_slides/lecture5.pdf) (Mar 1)
-- Programming practical: [The Rational Speech Act model](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab5.ipynb) (Mar 4, 6, 7)
-- Answers to Practical: [The Rational Speech Act model](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab5_answered.ipynb)
+- Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2023-24/blob/main/lab5.ipynb) (Mar 4, 6, 7)
+- Answers to Practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2023-24/blob/main/lab5_answered.ipynb)
 
 
 ### 6. Compositionality: the origins of structure
 
 - Reading: [The evolution of compositionality](simlang_reading_6.md)
 - [Lecture slides](lecture_slides/lecture6.pdf) (Mar 8)
-- Programming practical: [Compositionality](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab6.ipynb) (Mar 11, 13, 14)
-- Answers to Practical: [Compositionality](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab6_answered.ipynb)
+- Programming practical: [Compositionality](https://github.com/smkirby/simlang2023-24/blob/main/lab6.ipynb) (Mar 11, 13, 14)
+- Answers to Practical: [Compositionality](https://github.com/smkirby/simlang2023-24/blob/main/lab6_answered.ipynb)
 - [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
 
 
@@ -128,8 +128,8 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 - Reading: [Hierarchical models and learning to learn](simlang_reading_7.md)
 - [Lecture slides](lecture_slides/lecture7.pdf) (Mar 15)
-- Programming practical: [Hierarchical learning](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab7.ipynb) (Mar 18, 20, 21)
-- Answers to Practical: [Hierarchical learning](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab7_answered.ipynb)
+- Programming practical: [Hierarchical learning](https://github.com/smkirby/simlang2023-24/blob/main/lab7.ipynb) (Mar 18, 20, 21)
+- Answers to Practical: [Hierarchical learning](https://github.com/smkirby/simlang2023-24/blob/main/lab7_answered.ipynb)
 
 
 
@@ -137,16 +137,16 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 
 - Reading: [Innateness and culture in the evolution of language](simlang_reading_8.md)
 - [Lecture slides](lecture_slides/lecture8.pdf) (Mar 22)
-- Programming practical: [Convergence to the prior](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab8.ipynb) (Mar 25, 27, 28))
-- Answers to Practical: [Convergence to the prior](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab8_answered.ipynb)
+- Programming practical: [Convergence to the prior](https://github.com/smkirby/simlang2023-24/blob/main/lab8.ipynb) (Mar 25, 27, 28))
+- Answers to Practical: [Convergence to the prior](https://github.com/smkirby/simlang2023-24/blob/main/lab8_answered.ipynb)
 
 
 ### 9. Biological and cultural evolution together
 
 - Reading: [Gene-culture co-evolution](simlang_reading_9.md)
 - [Lecture slides](lecture_slides/lecture9.pdf) (Mar 29)
-- Programming practical: [Co-evolutionary modelling](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab9.ipynb) (Apr 1, 3, 4)
-- Answers to Practical: [Co-evolutionary modelling](http://nbviewer.com/github/smkirby/simlang2023-24/blob/main/lab9_answered.ipynb)
+- Programming practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2023-24/blob/main/lab9.ipynb) (Apr 1, 3, 4)
+- Answers to Practical: [Co-evolutionary modelling](https://github.com/smkirby/simlang2023-24/blob/main/lab9_answered.ipynb)
 
 
 
