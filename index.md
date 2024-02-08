@@ -89,7 +89,6 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - [Lecture slides](lecture_slides/lecture3.pdf) (Feb 9)
 - Programming practical: [Frequency learning and regularisation](https://github.com/smkirby/simlang2023-24/blob/main/lab3.ipynb) (Feb 12, 14, 15)
 - Answers to Practical: [Frequency learning and regularisation answers](https://github.com/smkirby/simlang2023-24/blob/main/lab3_answered.ipynb)
-- [Walkthrough video](https://media.ed.ac.uk/media/lab_3_walkthrough/1_1pyq2qg1)
 
 
 ### 4. Cultural evolution by iterated learning
@@ -104,7 +103,6 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
   - [notebook](https://github.com/smkirby/simlang2023-24/blob/main/LogExplainer.ipynb)
 - Answers to practical [Bayesian iterated learning](https://github.com/smkirby/simlang2023-24/blob/main/lab4_answered.ipynb)
-- [Walkthrough video](https://media.ed.ac.uk/media/lab_4_walkthrough/1_kv20uefj)
 
 
 ### 5. Communication and the RSA model
@@ -121,7 +119,6 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - [Lecture slides](lecture_slides/lecture6.pdf) (Mar 8)
 - Programming practical: [Compositionality](https://github.com/smkirby/simlang2023-24/blob/main/lab6.ipynb) (Mar 11, 13, 14)
 - Answers to Practical: [Compositionality](https://github.com/smkirby/simlang2023-24/blob/main/lab6_answered.ipynb)
-- [Walkthrough video](https://media.ed.ac.uk/media/lab_6_walkthrough/1_cv3bptoq)
 
 
 ### 7. Hierarchical models and learning the prior
