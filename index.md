@@ -82,6 +82,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - [Lecture slides](lecture_slides/lecture2.pdf) (Feb 2)
 - Programming practical: [Word learning](https://github.com/smkirby/simlang2023-24/blob/main/lab2.ipynb) (Feb 5, 7, 8)
 - Answers to Practical: [Word learning answers](https://github.com/smkirby/simlang2023-24/blob/main/lab2_answered.ipynb)
+- [Concept learning live coding video](https://media.ed.ac.uk/media/lab2_live_coding/1_d6g4eerh)
 
 ### 3. Frequency learning and regularisation
 
