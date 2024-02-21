@@ -102,7 +102,6 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - Programming practical: [Bayesian iterated learning](https://github.com/smkirby/simlang2023-24/blob/main/lab4.ipynb) (Feb 26, 28, 29)
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts (by Matt Spike)
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
-  - [notebook](https://github.com/smkirby/simlang2023-24/blob/main/LogExplainer.ipynb)
 - Answers to practical [Bayesian iterated learning](https://github.com/smkirby/simlang2023-24/blob/main/lab4_answered.ipynb)
 
 
