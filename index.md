@@ -90,6 +90,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - [Lecture slides](lecture_slides/lecture3.pdf) (Feb 9)
 - Programming practical: [Frequency learning and regularisation](https://github.com/smkirby/simlang2023-24/blob/main/lab3.ipynb) (Feb 12, 14, 15)
 - Answers to Practical: [Frequency learning and regularisation answers](https://github.com/smkirby/simlang2023-24/blob/main/lab3_answered.ipynb)
+- [Frequency learning live coding video](https://media.ed.ac.uk/media/lab3_live_coding/1_b8a9ctqe)
 
 
 ### 4. Cultural evolution by iterated learning
