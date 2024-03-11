@@ -58,7 +58,7 @@ In addition to asking questions in lectures and drop-in labs, we will set up cha
 The two assignments involve a mix of practical work and written sections and have the following deadlines:
 
 - 7th March at noon (released 26th February, feedback returned 28th March)
-- 18th April at noon (released 1st April, feedback returned 9th May)
+- 25th April at noon (released 1st April, feedback returned 16th May)
 
 *IMPORTANT* we will only answer questions about the assignments for 4 days following the release of the assignment, and questions *must* be posted on the Teams channel so that everyone can see the answers! No further questions about the assignments will be answered after this. We have struggled with getting this right over the years, with some years people asking questions after other people have already submitted, which feels unfair, and other years not answering questions at all, which also felt unfair. I hope this year we've got the balance right!
 
