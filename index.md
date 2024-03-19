@@ -104,7 +104,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - *Logarithms for the concerned*: a supplementary walkthrough in three parts (by Matt Spike)
   - [online slides](https://centre-for-language-evolution.github.io/simlang2021/LogExplainer.slides.html#/)
 - Answers to practical [Bayesian iterated learning](https://github.com/smkirby/simlang2023-24/blob/main/lab4_answered.ipynb)
-
+- [Cultural evolution live coding video](https://media.ed.ac.uk/media/lab4_live_coding/1_z9c6q988)
 
 ### 5. Communication and the RSA model
 
@@ -112,7 +112,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - [Lecture slides](lecture_slides/lecture5.pdf) (Mar 1)
 - Programming practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2023-24/blob/main/lab5.ipynb) (Mar 4, 6, 7)
 - Answers to Practical: [The Rational Speech Act model](https://github.com/smkirby/simlang2023-24/blob/main/lab5_answered.ipynb)
-
+- [RSA live coding video](https://media.ed.ac.uk/media/lab5_live_coding/1_eiuk0jve)
 
 ### 6. Compositionality: the origins of structure
 
@@ -120,7 +120,7 @@ N.B. The numbers below indicate the order of the sections of the course, but it'
 - [Lecture slides](lecture_slides/lecture6.pdf) (Mar 8)
 - Programming practical: [Compositionality](https://github.com/smkirby/simlang2023-24/blob/main/lab6.ipynb) (Mar 11, 13, 14)
 - Answers to Practical: [Compositionality](https://github.com/smkirby/simlang2023-24/blob/main/lab6_answered.ipynb)
-
+- [Compositionality live coding video](https://media.ed.ac.uk/media/lab6_live_coding/1_rtf3yusv)
 
 ### 7. Hierarchical models and learning the prior
 
